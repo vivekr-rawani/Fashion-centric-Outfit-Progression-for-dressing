@@ -10,7 +10,8 @@
 
 
 
-To run this project open Google Colab Notebook from here [here](https://colab.research.google.com/drive/1KDDCX5WSRYOBF0MfD6Q--h-TBoDQjFJ4?usp=sharing).
+To run this project open Google Colab Notebook from here. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KDDCX5WSRYOBF0MfD6Q--h-TBoDQjFJ4?usp=sharing)!
+
 
 
 At this stage our model is trained only for VITON dataset and it gives best result for the same. We will train the model with different data set and update our repository in future.
